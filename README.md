@@ -25,3 +25,5 @@ https://www.youtube.com/watch?v=iga-YS6VbyE&list=PLDzzooPYRJ_XNBUkbCkOM-TBWFeO5U
 ![image](https://user-images.githubusercontent.com/62290677/223719692-0c28c30f-ab75-4833-a186-22b4ea476977.png)
 
 * P6 How to use a rocker/toggle switch
+
+![image](https://user-images.githubusercontent.com/62290677/223726576-89fdd76f-e825-404f-9075-b4d63bffd62f.png)
