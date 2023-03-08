@@ -27,3 +27,12 @@ https://www.youtube.com/watch?v=iga-YS6VbyE&list=PLDzzooPYRJ_XNBUkbCkOM-TBWFeO5U
 * P6 How to use a rocker/toggle switch
 
 ![image](https://user-images.githubusercontent.com/62290677/223726576-89fdd76f-e825-404f-9075-b4d63bffd62f.png)
+
+* P7 How to use a knob/discrete Knob
+
+![image](https://user-images.githubusercontent.com/62290677/223735236-c238b570-00ea-489d-9eae-688907b4e627.png)
+
+* P8 Gauge components
+
+
+
