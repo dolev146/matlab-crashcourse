@@ -34,5 +34,8 @@ https://www.youtube.com/watch?v=iga-YS6VbyE&list=PLDzzooPYRJ_XNBUkbCkOM-TBWFeO5U
 
 * P8 Gauge components
 
+![image](https://user-images.githubusercontent.com/62290677/223743926-4e81fe69-7eac-4caa-ba76-ad55e14f89e3.png)
+ 
+
 
 
