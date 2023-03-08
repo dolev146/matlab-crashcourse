@@ -1,5 +1,9 @@
 # Matlab Crash Course
 
+- Crash Course Link
+
+https://www.youtube.com/watch?v=iga-YS6VbyE&list=PLDzzooPYRJ_XNBUkbCkOM-TBWFeO5Ud4I&ab_channel=BenitoSebastian 
+
 * P1 Hello World
 
 ![image](https://user-images.githubusercontent.com/62290677/223713332-2a24ea49-3e3a-49a0-b98d-0aeed6ec262c.png)
