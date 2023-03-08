@@ -19,3 +19,9 @@ https://www.youtube.com/watch?v=iga-YS6VbyE&list=PLDzzooPYRJ_XNBUkbCkOM-TBWFeO5U
 * P4 Lamp indicator 
 
 ![image](https://user-images.githubusercontent.com/62290677/223713759-32486ea8-8f6e-489c-a1bc-e0e317fd11e1.png)
+
+* P5  Lamp & Label warning using switch statement
+
+![image](https://user-images.githubusercontent.com/62290677/223719692-0c28c30f-ab75-4833-a186-22b4ea476977.png)
+
+* P6 How to use a rocker/toggle switch
