@@ -62,7 +62,17 @@ for some reason this didnt worked at my version i dont have an option to choose 
 ![image](https://user-images.githubusercontent.com/62290677/224006822-b48a5e7b-288c-47cd-bee1-a8224ab96adf.png)
 
 
+* P14 Tutorial 14 | Reading Data from Excel to Table
 
+![image](https://user-images.githubusercontent.com/62290677/224010338-f3deab5b-73d7-4d73-ac58-0c70c9199c0c.png)
+
+* P15  Tutorial 15 | Reading and Plotting Data from Excel 
+
+![image](https://user-images.githubusercontent.com/62290677/224011892-e6fed81b-104d-437b-b1f4-c7151c1c9529.png)
+
+* P16 Tutorial 16 | Adding rows and columns to tables
+
+![image](https://user-images.githubusercontent.com/62290677/224014165-90a0c9cb-fb50-4d8f-9214-3caf6162e711.png)
 
 
 
