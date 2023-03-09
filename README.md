@@ -50,5 +50,12 @@ https://www.youtube.com/watch?v=iga-YS6VbyE&list=PLDzzooPYRJ_XNBUkbCkOM-TBWFeO5U
 ![image](https://user-images.githubusercontent.com/62290677/223958743-19e049e2-b745-451f-b6e7-e51ee61d227e.png)
 
 
-* P12 
+* P12 Tutorial 12 | Same callback for multiple components
+
+for some reason this didnt worked at my version i dont have an option to choose a already written function like the video did
+
+![image](https://user-images.githubusercontent.com/62290677/223982438-1f5b3a69-14d3-4361-99ca-c45b87d5cc4d.png)
+![image](https://user-images.githubusercontent.com/62290677/223983490-726ebfd1-d45b-4940-83a8-dcbe2045e1e8.png)
+
+
 
