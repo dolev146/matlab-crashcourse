@@ -41,6 +41,9 @@ https://www.youtube.com/watch?v=iga-YS6VbyE&list=PLDzzooPYRJ_XNBUkbCkOM-TBWFeO5U
 ![image](https://user-images.githubusercontent.com/62290677/223745912-07d75b73-edda-43ab-b567-efea6b6d2e23.png)
 
  
+* P10 Tutorial 10 | Startup function
 
+![image](https://user-images.githubusercontent.com/62290677/223955348-6d9ae73d-06d7-40b6-90d5-9701ea7d9d69.png)
 
+* P11 
 
