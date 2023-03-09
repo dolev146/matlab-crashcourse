@@ -45,5 +45,10 @@ https://www.youtube.com/watch?v=iga-YS6VbyE&list=PLDzzooPYRJ_XNBUkbCkOM-TBWFeO5U
 
 ![image](https://user-images.githubusercontent.com/62290677/223955348-6d9ae73d-06d7-40b6-90d5-9701ea7d9d69.png)
 
-* P11 
+* P11 Tutorial 11 | Helper functions
+
+![image](https://user-images.githubusercontent.com/62290677/223958743-19e049e2-b745-451f-b6e7-e51ee61d227e.png)
+
+
+* P12 
 
