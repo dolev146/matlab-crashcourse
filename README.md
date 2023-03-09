@@ -75,4 +75,9 @@ for some reason this didnt worked at my version i dont have an option to choose 
 ![image](https://user-images.githubusercontent.com/62290677/224014165-90a0c9cb-fb50-4d8f-9214-3caf6162e711.png)
 
 
+* P17 Tutorial 17 | Using properties to add data to table
+
+![image](https://user-images.githubusercontent.com/62290677/224018583-966fc128-9269-4171-8f78-32ab5ab1d546.png)
+
+
 
