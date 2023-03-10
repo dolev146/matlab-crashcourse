@@ -45,5 +45,39 @@ https://www.youtube.com/watch?v=iga-YS6VbyE&list=PLDzzooPYRJ_XNBUkbCkOM-TBWFeO5U
 
 ![image](https://user-images.githubusercontent.com/62290677/223955348-6d9ae73d-06d7-40b6-90d5-9701ea7d9d69.png)
 
-* P11 
+* P11 Tutorial 11 | Helper functions
+
+![image](https://user-images.githubusercontent.com/62290677/223958743-19e049e2-b745-451f-b6e7-e51ee61d227e.png)
+
+
+* P12 Tutorial 12 | Same callback for multiple components
+
+for some reason this didnt worked at my version i dont have an option to choose a already written function like the video did
+
+![image](https://user-images.githubusercontent.com/62290677/223982438-1f5b3a69-14d3-4361-99ca-c45b87d5cc4d.png)
+![image](https://user-images.githubusercontent.com/62290677/223983490-726ebfd1-d45b-4940-83a8-dcbe2045e1e8.png)
+
+* P13 Tutorial 13 | Multi-Variable Functions
+
+![image](https://user-images.githubusercontent.com/62290677/224006822-b48a5e7b-288c-47cd-bee1-a8224ab96adf.png)
+
+
+* P14 Tutorial 14 | Reading Data from Excel to Table
+
+![image](https://user-images.githubusercontent.com/62290677/224010338-f3deab5b-73d7-4d73-ac58-0c70c9199c0c.png)
+
+* P15  Tutorial 15 | Reading and Plotting Data from Excel 
+
+![image](https://user-images.githubusercontent.com/62290677/224011892-e6fed81b-104d-437b-b1f4-c7151c1c9529.png)
+
+* P16 Tutorial 16 | Adding rows and columns to tables
+
+![image](https://user-images.githubusercontent.com/62290677/224014165-90a0c9cb-fb50-4d8f-9214-3caf6162e711.png)
+
+
+* P17 Tutorial 17 | Using properties to add data to table
+
+![image](https://user-images.githubusercontent.com/62290677/224018583-966fc128-9269-4171-8f78-32ab5ab1d546.png)
+
+
 
